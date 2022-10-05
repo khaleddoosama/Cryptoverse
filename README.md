@@ -1,6 +1,5 @@
-#Cryptoverse - Explore the World of Cryptocurrency
+# Cryptoverse - Explore the World of Cryptocurrency
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![68747470733a2f2f692e6962622e636f2f386768354a63382f696d6167652e706e67](https://user-images.githubusercontent.com/77926146/194102289-f27e8fab-3782-4614-abbb-d2a0da4d7dea.png)
 
