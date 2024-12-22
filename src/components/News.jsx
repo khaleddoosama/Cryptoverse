@@ -9,7 +9,6 @@ import Loader from './Loader';
 const demoImage = 'https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=News';
 
 const { Text, Title } = Typography;
-const { Option } = Select;
 
 const News = ({ simplified }) => {
   const [newsCategory, setNewsCategory] = useState('Cryptocurrency')
